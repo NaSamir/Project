@@ -2,7 +2,7 @@ body{
   margin : auto;
   border:8px solid black;
   padding:1em;
-  height:825px;
+  height:820px;
   width:400px;
   font-size:normal;
 }
@@ -21,8 +21,8 @@ body{
   flex-wrap:wrap;
   display:flex;
   margin:1px;
-  padding:0.5em;
-  float:center;
+  padding:1em;
+  margin:auto;
 }
 #me{
   width:400px;
