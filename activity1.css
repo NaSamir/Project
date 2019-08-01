@@ -1,0 +1,46 @@
+body{
+  margin : auto;
+  border:8px solid black;
+  padding:1em;
+  height:820px;
+  width:400px;
+  font-size:normal;
+}
+.Card{
+  float:center;
+}
+.y{
+  font-family: cursive;
+  text-shadow: 4px 4px 4px #aaa;
+  text-align: center;
+  color:#006699;
+}
+.information{
+  border:5px solid #006699;
+  width:320px;
+  flex-wrap:wrap;
+  display:flex;
+  margin:1px;
+  padding:1em;
+  margin:auto;
+}
+#me{
+  width:400px;
+  float:center;
+  text-align:center;
+}
+.n{
+  font-family: 'Tangerine', serif;
+  font-size: 30px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+ul li{
+  list-style-type:inherit;
+  float:left;
+}
+li strong{
+  color:red;
+}
+.z{
+  float:left;
+}
