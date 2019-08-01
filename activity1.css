@@ -20,7 +20,7 @@ body{
   width:320px;
   flex-wrap:wrap;
   display:flex;
-  margin:1em;
+  margin:2em;
   padding:0.5em;
   float:center;
 }
